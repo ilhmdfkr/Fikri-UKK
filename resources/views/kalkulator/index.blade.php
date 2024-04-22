@@ -12,7 +12,8 @@ form {
   padding: 20px;
   border: 3px solid black;
   border-radius: 8px;
-  background-color: skyblue;
+  background-color: red;
+  
 }
 
 
@@ -68,9 +69,9 @@ input[type="submit"] {
           <tr>
             <td colspan=4>
                <center>
-              Nama : Fikri
+              
               <br>
-              Kelas : 12 PPLG2
+              
             </td>
           </tr>
       </table>

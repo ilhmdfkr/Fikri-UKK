@@ -8,7 +8,7 @@
 <style> 
 
          table{ 
-            border: 1px solid black; 
+            border: 10000x solid black; 
             margin-left: auto; 
             margin-right: auto; 
         } 
@@ -17,7 +17,7 @@
             font-size: 24px; 
             font-weight: bold; 
             border: none; 
-            border-radius: 8px; 
+            border-radius: 99px; 
             border: 4px solid black; 
         } 
           
